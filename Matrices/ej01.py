@@ -15,3 +15,4 @@ for row in matriz:  # imprime la matiz en forma de matriz
     for colm in row:
         print(colm, end=" ")
     print()
+
